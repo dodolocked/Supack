@@ -1,6 +1,6 @@
 # Supack
 腾讯Cos以及七牛云备份Python脚本
-optional arguments:
+optional arguments
   -h, --help          show this help message and exit
   -uses USES          指定备份到哪个云存储(默认qiniu)
   -show               显示--use可用的内容
